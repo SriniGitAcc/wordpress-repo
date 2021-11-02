@@ -1,0 +1,2 @@
+# wordpress-repo
+wordpress repository
