@@ -1,14 +1,8 @@
 pipeline {
 
-
-
   agent any
 
-
-
   stages {
-
-
 
     stage('Checkout Source') {
 
@@ -19,9 +13,6 @@ pipeline {
       }
 
     }
-
-
-
 
 
     stage('Deploy App') {
@@ -38,10 +29,6 @@ pipeline {
 
     }
 
-
-
   }
-
-
 
 }
